@@ -18,6 +18,7 @@ theHarvester -d microsoft.com -l 1000 -b baidu
 ```
 
 **Screenshot:**
+
 <img width="616" height="550" alt="theHarvester 1" src="https://github.com/user-attachments/assets/904fdf79-0e9e-4c9e-a4b4-90b2fa9ee6c8" />
 
 **Plaintext:**
@@ -63,10 +64,11 @@ theHarvester -d microsoft.com -l 50 -b all
 ```
 
 **Screenshot:**
+
 <img width="1920" height="892" alt="theHarvester 3 " src="https://github.com/user-attachments/assets/340d42d5-fdf3-4152-b5b5-19dfbf8f54c6" />
 
 **Plaintext:**
-[theHasvester 2 results.txt](https://github.com/user-attachments/files/34817667/theHasvester.2.results.txt)
+[theHarvester 2 results.txt](https://github.com/user-attachments/files/34817667/theHasvester.2.results.txt)
 
 ┌──(junaid㉿junaidbloch)-[~]
 └─$ theHarvester -d microsoft.com -l 50 -b all    
