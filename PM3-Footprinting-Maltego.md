@@ -16,8 +16,7 @@ Conduct Open-Source Intelligence (OSINT) and visual link analysis using **Malteg
 Launched Maltego Graph Desktop (`v4.14.0`) and verified active Transform Hub integrations (238 installed transforms across Recon, Infrastructure, Threat Intelligence, and Breach categories).
 
 **Screenshot:**  
-👉 **<img width="959" height="491" alt="Maltego home" src="https://github.com/user-attachments/assets/20702ef5-461b-48b3-9153-9317936171c5" />
-**
+<img width="959" height="491" alt="Maltego home" src="https://github.com/user-attachments/assets/20702ef5-461b-48b3-9153-9317936171c5" />
 
 **SOC Analyst Note:**  
 Before initiating an investigation, confirming active data hubs ensures that domain, DNS, and metadata transforms can query public intelligence repositories accurately without API failure.
@@ -31,8 +30,7 @@ Before initiating an investigation, confirming active data hubs ensures that dom
 2. Executed **Email Address Transforms** against the domain entity to uncover publicly indexed contact points.
 
 **Screenshot:**  
-👉 **<img width="959" height="500" alt="Maltego domain search" src="https://github.com/user-attachments/assets/ce137d2e-dc3c-4985-828c-3f0412f0b09a" />
-**
+<img width="959" height="500" alt="Maltego domain search" src="https://github.com/user-attachments/assets/ce137d2e-dc3c-4985-828c-3f0412f0b09a" />
 
 **Findings:**  
 - **Target Domain:** `networkwalks.com`
@@ -46,8 +44,7 @@ Before initiating an investigation, confirming active data hubs ensures that dom
 Executed an automated **Maltego Machine** (Footprint / Metadata parsing pipeline) on the target domain to enumerate linked documents, individuals, phrases, and network relationships.
 
 **Screenshot:**  
-👉 **<img width="959" height="504" alt="Maltego machine feature" src="https://github.com/user-attachments/assets/d211a7d5-a5c3-4ea6-b383-fde4943a8a72" />
-**
+<img width="959" height="504" alt="Maltego machine feature" src="https://github.com/user-attachments/assets/d211a7d5-a5c3-4ea6-b383-fde4943a8a72" />
 
 **Findings & Graph Metrics:**  
 - **Total Entities Mapped:** `55 Entities` (Domains, Documents, Persons, Phrases, and Email Addresses)
